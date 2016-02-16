@@ -1,0 +1,18 @@
+{
+  "name": "wms-email-notices",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adam Malantonio <adam.malantonio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "email": "0.2.6",
+    "mustache": "2.2.1",
+    "ndjson": "1.4.3",
+    "through2": "2.0.1"
+  }
+}

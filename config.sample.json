@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "email": {
+    "from": "",
+    "subject": ""
+  },
+  "testIds": []
+}
